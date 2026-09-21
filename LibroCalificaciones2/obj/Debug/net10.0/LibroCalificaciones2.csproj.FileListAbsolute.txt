@@ -1,0 +1,15 @@
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.AssemblyInfo.cs
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.exe
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.deps.json
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.runtimeconfig.json
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.dll
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\bin\Debug\net10.0\LibroCalificaciones2.pdb
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.dll
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\refint\LibroCalificaciones2.dll
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.pdb
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCalificaciones2.genruntimeconfig.cache
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\ref\LibroCalificaciones2.dll
+C:\Users\DELL\OneDrive - Universidad Tecnológica de Panamá\III Año - 2026\II Semestre\HPA III\4. Actividades y Asignaciones\Prácticas\LibroCalificaciones2\obj\Debug\net10.0\LibroCal.A8627364.Up2Date

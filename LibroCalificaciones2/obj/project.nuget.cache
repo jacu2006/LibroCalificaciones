@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BO+ZOKbHQfU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\OneDrive - Universidad Tecnológica de Panamá\\III Año - 2026\\II Semestre\\HPA III\\4. Actividades y Asignaciones\\Prácticas\\LibroCalificaciones2\\LibroCalificaciones2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\10.0.11\\microsoft.dotnet.ilcompiler.10.0.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.net.illink.tasks\\10.0.12\\microsoft.net.illink.tasks.10.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\10.0.11\\runtime.win-x64.microsoft.dotnet.ilcompiler.10.0.11.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.12\\microsoft.aspnetcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.12\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.12\\microsoft.netcore.app.runtime.win-x64.10.0.12.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.runtime.nativeaot.win-x64\\10.0.11\\microsoft.netcore.app.runtime.nativeaot.win-x64.10.0.11.nupkg.sha512"
+  ],
+  "logs": []
+}
